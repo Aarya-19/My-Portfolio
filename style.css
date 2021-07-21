@@ -1,0 +1,147 @@
+
+  .first {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(209, 184, 184);
+    margin-right: 40px;
+  }
+  .second {
+    padding-left: 70px;
+  }
+  .change {
+    background-color: rgb(238, 214, 182);
+  }
+  .third {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5% 10%;
+    background-color: rgb(185, 50, 50);
+    box-shadow: gray 12px 12px 12px;
+  }
+  .fourth {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4px;
+  }
+  h1 {
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: rgb(13, 29, 83);
+  }
+  .fifth {
+    max-width: 50%;
+    box-shadow: gray 8px 8px 8px;
+    transition: 0.8s;
+  }
+  .fifth:hover {
+    transform: translate(-8px, -8px);
+    box-shadow: gray 16px 16px 16px;
+    transition: 0.5sec;
+  }
+  .line {
+    height: 1.5px;
+    background-color: rgb(206, 165, 112);
+    margin-bottom: 8px;
+  }
+  .seventh {
+    font-family: cursive;
+    color: rgb(112, 206, 125);
+  }
+  .eighth {
+    margin: 12px;
+    font-size: 24px;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+  }
+  .fa:hover {
+    opacity: 0.9;
+  }
+  .fa-instagram {
+    color: black;
+    background:rgb(185, 50, 50);
+    margin-right: 5rem;
+  }
+  .fa-linkedin {
+    color: black;
+    background: rgb(185, 50, 50);
+  }
+  .fa-facebook {
+    color: black;
+    background: rgb(185, 50, 50);
+    margin-left: 5rem;
+  }
+  .fa-github {
+    color: black;
+    background: rgb(185, 50, 50);
+    margin-left: 5rem;
+  }
+  .ninth {
+    display: flex;
+    justify-content: center;
+  }
+  .tenth {
+    margin-bottom: 8px;
+    font-size: 24px;
+  }
+  .eleventh {
+    font-size: 18px;
+  }
+  h5 {
+    font-family: cursive;
+    color: rgb(59, 53, 44);
+    margin-bottom: 12px;
+  }
+  .twelveth {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .size {
+    width: 13rem;
+    height: 10rem;
+  }
+  .card {
+    box-shadow: gray 8px 8px 8px;
+  }
+  .sized1 {
+    width: 65%;
+    height: 65%;
+  }
+  .sized2 {
+    width: 75%;
+    height: 100%;
+  }
+  .sized3 {
+    width: 70%;
+    height: 75%;
+  }
+  .color1 {
+    font-family: cursive;
+    font-weight: bold;
+    color: red;
+  }
+  .background {
+    background-color: rgb(255, 255, 255);
+  }
+  .margin {
+    margin-top: 12px;
+  }
+  .margin_bottom {
+    margin-bottom: 8px;
+  }
+  .margin_left {
+    margin-left: 8px;
+    margin-bottom: 12px;
+  }
+  h6 {
+    margin-top: 5px;
+  }
+  body {
+    background-color: rgb(13, 29, 83);
+  }
