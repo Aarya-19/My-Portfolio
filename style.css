@@ -1,0 +1,168 @@
+
+  .first {
+    font-family: Georgia, serif;
+    color: rgb(209, 184, 184);
+    margin-right: 40px;
+  }
+  .second {
+    padding-left: 70px;
+  }
+  .change {
+    background-color: rgb(238, 214, 182);
+  }
+  .third {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5% 10%;
+    background-color: rgb(185, 50, 50);
+    box-shadow: rgb(68, 59, 59) 12px 12px 12px;
+  }
+  .fourth {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4px;
+  }
+  h1 {
+    margin: 0px;
+    font-family: Georgia, "Times New Roman", serif;
+    color: rgb(13, 29, 83);
+  }
+  .fifth {
+    max-width: 50%;
+    box-shadow: gray 8px 8px 8px;
+    transition: 1s;
+  }
+  .fifth:hover {
+    transform: translate(-8px, -8px);
+    box-shadow: gray 16px 16px 16px;
+    transition: 1sec;
+  }
+  .line {
+    height: 1.5px;
+    background-color: rgb(206, 165, 112);
+    margin-bottom: 8px;
+  }
+  .seventh {
+    font-family: sans-serif;;
+    color: rgb(16, 2, 77);
+  }
+  .eighth {
+    margin: 12px;
+    font-size: 24px;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 24px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+  }
+  .fa:hover {
+    opacity: 0.9;
+  }
+  .fa-instagram {
+    color: black;
+    background:rgb(185, 50, 50);
+    margin-right: 5rem;
+  }
+  .fa-linkedin {
+    color: black;
+    background: rgb(185, 50, 50);
+  }
+  .fa-facebook {
+    color: black;
+    background: rgb(185, 50, 50);
+    margin-left: 5rem;
+  }
+  .fa-github {
+    color: black;
+    background: rgb(185, 50, 50);
+    margin-left: 5rem;
+  }
+  .ninth {
+    display: flex;
+    justify-content: center;
+  }
+  .tenth {
+    margin-bottom: 8px;
+    font-size: 24px;
+  }
+  .eleventh {
+    font-size: 24px;
+  }
+  h5 {
+    font-family: sans-serif;
+    color: rgb(59, 53, 44);
+    margin-bottom: 12px;
+  }
+  .twelveth {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .size {
+    width: 13rem;
+    height: 10rem;
+  }
+  .card {
+    box-shadow: gray 8px 8px 8px;
+  }
+  .sized1 {
+    width: 30rem;
+    height: 30rem;
+  }
+  .sized2 {
+    width: 30rem;
+    height: 30rem;
+  }
+  .sized3 {
+    width: 30rem;
+    height: 30rem;
+  }
+  .color1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(185, 50, 50);
+  }
+  .background {
+    background-color: rgb(255, 255, 255);
+  }
+  .margin {
+    margin-top: 12px;
+  }
+  .margin_bottom {
+    margin-bottom: 8px;
+  }
+  .margin_left {
+    margin-left: 8px;
+    margin-bottom: 12px;
+  }
+  h6 {
+    margin-top: 5px;
+  }
+  body {
+    background-color: rgb(13, 29, 83);
+  }
+  /* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(185, 50, 50); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(185, 50, 50); 
+}
