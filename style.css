@@ -15,7 +15,7 @@
     margin-bottom: 12px;
     border-radius: 10px 10px 10px 10px;
     padding: 5% 10%;
-    background-color: rgb(185, 50, 50);
+    background-color: rgb(50, 169, 185);
     box-shadow: rgb(68, 59, 59) 12px 12px 12px;
   }
   .fourth {
@@ -64,21 +64,21 @@
   }
   .fa-instagram {
     color: black;
-    background:rgb(185, 50, 50);
+    background:rgb(50, 169, 185);
     margin-right: 5rem;
   }
   .fa-linkedin {
     color: black;
-    background: rgb(185, 50, 50);
+    background: rgb(50, 169, 185);
   }
   .fa-facebook {
     color: black;
-    background: rgb(185, 50, 50);
+    background: rgb(50, 169, 185);
     margin-left: 5rem;
   }
   .fa-github {
     color: black;
-    background: rgb(185, 50, 50);
+    background: rgb(50, 169, 185);
     margin-left: 5rem;
   }
   .ninth {
@@ -124,7 +124,7 @@
   .color1 {
     font-family: sans-serif;
     font-weight: bold;
-    color: rgb(185, 50, 50);
+    color: rgb(204, 15, 15);
   }
   .background {
     background-color: rgb(255, 255, 255);
@@ -158,11 +158,11 @@
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgb(185, 50, 50); 
+  background: rgb(50, 169, 185); 
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(185, 50, 50); 
+  background: rgb(50, 169, 185); 
 }
